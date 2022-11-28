@@ -5,6 +5,6 @@ Some keyboards do not have media controls. When I had to downgrade my keyboard, 
 - Press "Windows + R" then "shell:startup" without quotation
 - Place the AHK script inside of the folder. You are done :)
 # How TO USE
-- Alt + Left/Right to change songs
-- Alt + Spacebar to Pause
+- Alt + Left/Right arrows to change songs
+- Alt + Spacebar to Pause/Play
 - Alt + Up/Down arrows to control volume
