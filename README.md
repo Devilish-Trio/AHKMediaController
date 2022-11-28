@@ -6,7 +6,7 @@
 # How TO INSTALL (Autorun)
 - Press "Windows + R" then "shell:startup" without quotation
 - Place the AHK script inside of the folder. You are done :)
-# How TO USE
+# How TO USE (Spotify)
 - Alt + Left/Right arrows to change songs
 - Alt + Spacebar to Pause/Play
 - Alt + Up/Down arrows to control volume
